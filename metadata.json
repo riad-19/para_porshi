@@ -1,0 +1,6 @@
+{
+  "name": "পাড়া-পড়শি",
+  "description": "বাংলাদেশের প্রতিবেশীদের পারস্পরিক সহযোগিতা, লোকাল ফিড, রিসোর্স শেয়ারিং ও জরুরি রেসপন্স প্ল্যাটফর্ম",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
